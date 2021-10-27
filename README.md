@@ -16,11 +16,11 @@ Setelah Anda memahami logika pemrograman, mudah bagi Anda untuk mempelajari sala
 ![image](https://user-images.githubusercontent.com/93015185/139072499-0cb18259-67a0-487f-944c-aa96be73bbd1.png)
 2. kelik next, I Angree kemudian next
 ![image](https://user-images.githubusercontent.com/93015185/139073047-ace19ac1-b436-4333-97fc-7a3ce062291a.png)
-3. kelik Everyone lalu kemudian kelik next untuk penginstallan FLOWGORITHM
+4. kelik Everyone lalu kemudian kelik next untuk penginstallan FLOWGORITHM
 <img width="960" alt="02" src="https://user-images.githubusercontent.com/93015185/139073560-2a8022a1-1d08-4c87-9299-37fe9d5c1436.png">
-4. Next lagi dan tunggu sampai penginstallan selesai
+6. Next lagi dan tunggu sampai penginstallan selesai
 ![image](https://user-images.githubusercontent.com/93015185/139074024-9e49870d-54a6-4e18-971e-a78288ce078a.png)
-5. Jika penginstallan telah selesai, lalu menuju ke select here to search lalu ketik "flowgorithm" dan seperti inilah tampilannya jika membuka aplikasinya.
+8. Jika penginstallan telah selesai, lalu menuju ke select here to search lalu ketik "flowgorithm" dan seperti inilah tampilannya jika membuka aplikasinya.
 ![image](https://user-images.githubusercontent.com/93015185/139075042-30919eb3-e880-4070-8446-5447e17612c0.png)
 
 #Cara Membuat Hello World Menggunakan Flowgorithm
