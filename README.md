@@ -9,3 +9,9 @@ Biasanya, ketika seorang siswa pertama kali belajar memprogram, mereka sering me
 Dengan menggunakan diagram alur, Anda dapat berkonsentrasi pada konsep pemrograman daripada semua nuansa bahasa pemrograman biasa. Anda juga dapat menjalankan program Anda secara langsung di Flowgorithm.
 
 Setelah Anda memahami logika pemrograman, mudah bagi Anda untuk mempelajari salah satu bahasa utama. Flowgorithm dapat secara interaktif mengonversi diagram alur Anda ke lebih dari 18 bahasa. Ini termasuk: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, dan VBA (digunakan di Office).
+
+#Langkah-Langkah INSTALL FLOWGORITHM
+
+1. Buka file flowgorithm kemudian kelik dua kali
+![image](https://user-images.githubusercontent.com/93015185/139072499-0cb18259-67a0-487f-944c-aa96be73bbd1.png)
+2. kelik next, I Angree
